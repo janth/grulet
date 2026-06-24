@@ -1,0 +1,1 @@
+# Git rule test
